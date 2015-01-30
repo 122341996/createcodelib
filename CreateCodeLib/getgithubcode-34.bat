@@ -1,0 +1,16 @@
+git clone https://github.com/skeeto/sample-java-project.git####skeeto-sample-java-project
+git clone https://github.com/joedayz/academia-java.git####joedayz-academia-java
+git clone https://github.com/crocodoc/crocodoc-java.git####crocodoc-crocodoc-java
+git clone https://github.com/dvdme/forecastio-lib-java.git####dvdme-forecastio-lib-java
+git clone https://github.com/box/box-java-sdk-v2.git####box-box-java-sdk-v2
+git clone https://github.com/inbloom/java-sdk.git####inbloom-java-sdk
+git clone https://github.com/bitzeche/zencoder-java.git####bitzeche-zencoder-java
+git clone https://github.com/OpenDDRdotORG/OpenDDR-Java.git####OpenDDRdotORG-OpenDDR-Java
+git clone https://github.com/ESAPI/esapi-java.git####ESAPI-esapi-java
+git clone https://github.com/OpenHFT/Java-Runtime-Compiler.git####OpenHFT-Java-Runtime-Compiler
+git clone https://github.com/surakshina/fizteh-java-2013.git####surakshina-fizteh-java-2013
+git clone https://github.com/cloudinary/cloudinary_java.git####cloudinary-cloudinary_java
+git clone https://github.com/joedayz/academia-java.git####joedayz-academia-java
+git clone https://github.com/nabeelmukhtar/github-java-sdk.git####nabeelmukhtar-github-java-sdk
+git clone https://github.com/joelbars/java-webrtc.git####joelbars-java-webrtc
+git clone https://github.com/smartrevolution/gnupg-for-java.git####smartrevolution-gnupg-for-java

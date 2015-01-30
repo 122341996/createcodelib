@@ -1,0 +1,10 @@
+git clone https://github.com/Donnervoegel/java.git####Donnervoegel-java
+git clone https://github.com/tanakaedu/java.git####tanakaedu-java
+git clone https://github.com/pubnub/java.git####pubnub-java
+git clone https://github.com/spinfo/java.git####spinfo-java
+git clone https://github.com/douglascrockford/JSON-java.git####douglascrockford-JSON-java
+git clone https://github.com/SquareSquash/java.git####SquareSquash-java
+git clone https://github.com/adyenpayments/java.git####adyenpayments-java
+git clone https://github.com/17mon/java.git####17mon-java
+git clone https://github.com/structurizr/java.git####structurizr-java
+git clone https://github.com/pagseguro/java.git####pagseguro-java

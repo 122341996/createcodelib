@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 13 15:13:49 CST 2014
+onejar.license.required=true
+manifest.classpath=jsoup-1.7.2.jar forms-1.3.0.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CreateCodeLib.jar
+manifest.mergeall=true
+manifest.mainclass=getcode.GUI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|CreateCodeLib/lib>
